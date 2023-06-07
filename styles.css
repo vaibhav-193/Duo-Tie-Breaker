@@ -1,0 +1,68 @@
+.container {
+  background-color: white;
+  border-radius: 30px;
+  opacity: 80%;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px 2px #888888;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+  background-image: linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%);
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+input {
+  border-radius: 20px;
+  border: 1px solid;
+  padding: 5px;
+  box-shadow: 2px 4px 3px 4px #888888;
+  margin-bottom: 2%;
+  font-size: 1.5rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+#Winner {
+  position: absolute;
+  top: 5%;
+  right: 3%;
+}
+
+img {
+  width: 60%;
+}
+
+a {
+   color: #EEEEEE;
+   text-decoration: none;
+}
+
+a:hover {
+  color: #4ECCA3;
+}
+
+footer {
+  margin-top: 1.5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
